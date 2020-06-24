@@ -4,8 +4,8 @@
 
 ## Installation
 
-[Node](https://nodejs.org/en/download/)
-[React](https://reactjs.org/docs/getting-started.html)
+1. [Node](https://nodejs.org/en/download/)
+2. [React](https://reactjs.org/docs/getting-started.html)
 
 ## Setting up APP ID
 
